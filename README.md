@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00FFFF&center=true&vCenter=true&width=430&lines=Hi+%F0%9F%91%8B%2C+I'm+T%C3%B4+C%C3%B4ng+Qu%C3%A2n+%E2%9A%A1" alt="Typing SVG" />
 </h1>
 
-<p align="center">My goal is to become a System Administrator.</p>
+<p align="center">My goal is to become a System Administrator/Cloud Engineer.</p>
 
 ---
 
