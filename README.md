@@ -55,6 +55,11 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zquan315&repo=NT531-K8s&theme=radical"/>
       </a>
     </td>
+    <td>
+      <a href="https://github.com/Zquan315/NT548-Devops-Project-Deployment">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zquan315&repo=NT548-Devops-Project-Deployment&theme=radical"/>
+      </a>
+    </td>
   </tr>
 </table>
 
