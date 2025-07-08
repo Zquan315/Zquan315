@@ -43,6 +43,11 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zquan315&repo=Deploy-a-microservice-app-on-k8s&theme=radical"/>
       </a>
     </td>
+    <td>
+      <a href="https://github.com/Zquan315/DACN-Improve-Accurancy-NB-and-SVM">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zquan315&repo=DACN-Improve-Accurancy-NB-and-SVM&theme=radical"/>
+      </a>
+    </td>
   </tr>
   <tr>
     <td>
