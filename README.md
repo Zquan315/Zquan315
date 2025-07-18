@@ -71,24 +71,25 @@
 
 ---
 
-### 📚 Kết quả học tập
+### 📚 Academic Transcript
 
-**🎓 GPA tích lũy: 8.46**
+**🎓 Cumulative GPA: 8.46**
 
-Một số môn học tiêu biểu liên quan đến định hướng
-| Mã HP  | Tên học phần                                     | Tín chỉ | Điểm HP |
-|--------|--------------------------------------------------|---------|---------|
-| NT531  | Đồ án chuyên ngành                               | 2       | N/A    |
-| NT531  | Đánh giá hiệu năng hệ thống mạng máy tính        | 3       | N/A    |
-| NT533  | Hệ tính toán phân bố                             | 3       | 9.2     |
-| NT548  | Công nghệ DevOps và ứng dụng                     | 4       | 9.0     |
-| NT132  | Quản trị mạng và hệ thống                        | 4       | 9.1     |
-| NT521  | Lập trình an toàn và khai thác lỗ hổng phần mềm  | 4       | 8.5     |
-| IT007  | Hệ điều hành                                     | 4       | 8.1     |
-| IT003  | Cấu trúc dữ liệu và giải thuật                   | 4       | 8.4     |
-| IT002  | Lập trình hướng đối tượng                        | 4       | 9.3     |
+Some notable courses related to the specialization:
 
-📄 [Xem bảng điểm chi tiết tại đây](./ketquahoctap_tocongquan.pdf)
+| Course Code | Course Name                                                | Credits | Final Grade |
+|-------------|-------------------------------------------------------------|---------|-------------|
+| NT114       | Specialized Project                                         | 2       | In procesing|
+| NT531       | Performance Evaluation of Computer Networking Systems       | 3       | In procesing|
+| NT533       | Distributed Computing Systems                               | 3       | 9.2         |
+| NT548       | DevOps Technology and Applications                          | 4       | 9.0         |
+| NT132       | Network and System Administration                           | 4       | 9.1         |
+| NT521       | Secure Programming and Software Vulnerability Exploitation  | 4       | 8.5         |
+| IT007       | Operating Systems                                           | 4       | 8.1         |
+| IT003       | Data Structures and Algorithms                              | 4       | 8.4         |
+| IT002       | Object-Oriented Programming                                 | 4       | 9.3         |
+
+📄 [View detailed transcript here](./ketquahoctap_tocongquan.pdf)
 ---
 ### 📬 Contact Me
 
