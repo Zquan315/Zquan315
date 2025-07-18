@@ -71,6 +71,25 @@
 
 ---
 
+### 📚 Kết quả học tập
+
+**🎓 GPA tích lũy: 8.46**
+
+Một số môn học tiêu biểu liên quan đến định hướng
+| Mã HP  | Tên học phần                                     | Tín chỉ | Điểm HP |
+|--------|--------------------------------------------------|---------|---------|
+| NT531  | Đồ án chuyên ngành                               | 2       | N/A    |
+| NT531  | Đánh giá hiệu năng hệ thống mạng máy tính        | 3       | N/A    |
+| NT533  | Hệ tính toán phân bố                             | 3       | 9.2     |
+| NT548  | Công nghệ DevOps và ứng dụng                     | 4       | 9.0     |
+| NT132  | Quản trị mạng và hệ thống                        | 4       | 9.1     |
+| NT521  | Lập trình an toàn và khai thác lỗ hổng phần mềm  | 4       | 8.5     |
+| IT007  | Hệ điều hành                                     | 4       | 8.1     |
+| IT003  | Cấu trúc dữ liệu và giải thuật                   | 4       | 8.4     |
+| IT002  | Lập trình hướng đối tượng                        | 4       | 9.3     |
+
+📄 [Xem bảng điểm chi tiết tại đây](./ketquahoctap_tocongquan.pdf)
+---
 ### 📬 Contact Me
 
 <div align="left">
