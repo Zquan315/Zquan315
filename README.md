@@ -80,7 +80,7 @@ Some notable courses related to the specialization:
 | Course Code | Course Name                                                | Credits | Final Grade |
 |-------------|-------------------------------------------------------------|---------|-------------|
 | NT114       | Specialized Project                                         | 2       | In procesing|
-| NT531       | Performance Evaluation of Computer Networking Systems       | 3       | In procesing|
+| NT531       | Performance Evaluation of Computer Networking Systems       | 3       | 9.0         |
 | NT533       | Distributed Computing Systems                               | 3       | 9.2         |
 | NT548       | DevOps Technology and Applications                          | 4       | 9.0         |
 | NT132       | Network and System Administration                           | 4       | 9.1         |
