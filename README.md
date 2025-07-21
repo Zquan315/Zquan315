@@ -73,7 +73,7 @@
 
 ### 📚 Academic Transcript
 
-**🎓 Cumulative GPA: 8.46**
+**🎓 Cumulative GPA: 8.51**
 
 Some notable courses related to the specialization:
 
