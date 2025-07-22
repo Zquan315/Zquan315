@@ -90,7 +90,9 @@ Some notable courses related to the specialization:
 | IT002       | Object-Oriented Programming                                 | 4       | 9.3         |
 
 📄 [View detailed transcript here](./ketquahoctap_tocongquan.pdf)
+
 ---
+
 ### 📬 Contact Me
 
 <div align="left">
